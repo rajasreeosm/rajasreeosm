@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rajasreeosm
+- 👋 Hi, I’m Rajasree Rajagopalan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning a full stack development online certification cou
+- 🌱 I’m currently learning a full stack development online certification course
 - 📫 My mail id is rajasreeosm@gmail.com
 - My LinkedIn:https://www.linkedin.com/in/rajasree-rajagopalan-7201a0200/
 
